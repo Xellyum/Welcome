@@ -1,2 +1,2 @@
 # Hello There 🦊
-![](https://github.com/xellyum/fox-jump.gif)
+![](https://github.com/Xellyum/xellyum/blob/main/fox-jump.gif)
